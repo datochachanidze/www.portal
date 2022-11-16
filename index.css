@@ -52,7 +52,14 @@ body{
 .div-1-1-li-img4{
     list-style-image:url()
 }
-.one[
+.one{
+    background-image: url("img/iback.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 0;
+    padding-top: 265px;
     
-
-]
+}
+.one h1{
+    color: #ffffff;
+}
